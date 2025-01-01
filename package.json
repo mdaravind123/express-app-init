@@ -1,0 +1,45 @@
+{
+  "name": "express-app-init",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "express-app-init": "./index.js"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "javascript",
+    "typescript",
+    "docker",
+    "prisma",
+    "supabase",
+    "database-setup",
+    "boilerplate",
+    "backend"
+  ],
+  "author": {
+    "name": "M D Aravind",
+    "email": "mdaravind2004@gmail.com"
+  },
+  "license": "MIT",
+  "description": "A streamlined solution for quickly initializing and configuring an Express.js backend project, providing a robust foundation for modern development workflows.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdaravind123/express-app-init.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdaravind123/express-app-init/issues"
+  },
+  "homepage": "https://github.com/mdaravind123/express-app-init#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^12.3.0",
+    "ora": "^8.1.1",
+    "shelljs": "^0.8.5"
+  }
+}
