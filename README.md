@@ -25,13 +25,19 @@ A fast and efficient way to set up a production-ready Express.js backend, equipp
    npm install express-app-init
    ```
 
-2. Navigate to your project folder:
+2. After installing the package run 
+
+     ```
+     npx express-app-init
+     ```
+
+3. Navigate to your project folder:
 
    ```
    cd <project-name>
    ```
 
-3. Start the application:
+4. Start the application:
    ```
    npm run start
    ```
@@ -50,19 +56,19 @@ We welcome contributions to improve this project! To contribute, please follow t
 
 We look forward to your contributions! 🙌
 
-📄 License
+## **📄 License**
 
 MIT License. See the LICENSE file for more details.
 
-📍 Repository
+## **📍 Repository**
 
     GitHub: https://github.com/mdaravind123/express-app-init
 
-📝 Author
+## **📝 Author**
 
     Name: M D Aravind
     Email: mdaravind2004@gmail.com
 
-🐛 Bugs & Issues
+## **🐛 Bugs & Issues**
 
 For bugs or issues, please refer to the Issues page on GitHub.
